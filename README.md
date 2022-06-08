@@ -21,7 +21,7 @@
     - train.csv : 데이터셋
     - car.jpg : 홈화면에서 보여질 이미지 파일
     
-    ![numpy](https://user-images.githubusercontent.com/105832393/172635791-71392689-8e12-4dbe-8de6-058e7adc2de4.png)
+ ![numpy](https://user-images.githubusercontent.com/105832393/172635791-71392689-8e12-4dbe-8de6-058e7adc2de4.png)
 
     
 # Pre-requisite
