@@ -1,14 +1,5 @@
-<<<<<<< HEAD
-
-
-
-
-=======
-
 
 ![image](https://user-images.githubusercontent.com/105832393/172633549-6d706f77-8fd8-4d91-a261-697cd1d031cc.png)
->>>>>>> 99eb6c0e8bd0dab2aa612f3e8fababba3f45e6e7
-
 
 
 # 자동차 가격 예측 앱
@@ -27,13 +18,11 @@
     - data 폴더 : 앱 실행시 필요한 추가 파일
     - train.csv : 데이터셋
     - car.jpg : 홈화면에서 보여질 이미지 파일
-<<<<<<< HEAD
-=======
+
     
  ![numpy](https://user-images.githubusercontent.com/105832393/172635791-71392689-8e12-4dbe-8de6-058e7adc2de4.png) 
  ![streamlit](https://user-images.githubusercontent.com/105832393/172636710-90dfb50b-427c-4a30-a8c1-20835a114595.png)
 
->>>>>>> 99eb6c0e8bd0dab2aa612f3e8fababba3f45e6e7
     
 # Pre-requisite
 - Library
@@ -42,10 +31,9 @@ pip install streamlit-option-menu
 ```
 
 # Connect URL
-<<<<<<< HEAD
-http://ec2-3-39-177-185.ap-northeast-2.compute.amazonaws.com:8501/
-=======
+
+
 http://ec2-3-39-177-185.ap-northeast-2.compute.amazonaws.com:8501/  
 
 
->>>>>>> 99eb6c0e8bd0dab2aa612f3e8fababba3f45e6e7
+
